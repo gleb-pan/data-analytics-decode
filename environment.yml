@@ -1,0 +1,4 @@
+name: da_decode
+channels:
+  - defaults
+prefix: C:\Users\pangl\anaconda3\envs\da_decode
